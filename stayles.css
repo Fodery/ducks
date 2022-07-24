@@ -24,6 +24,7 @@ header, footer, .sec1 {
 .hleft {
     padding: 7px;
     margin: 7px;
+    margin-left: 40px;
 }
 
 .hright {
@@ -31,6 +32,7 @@ header, footer, .sec1 {
     padding: 10px;
     margin: 10px;
     margin-top: 20px;
+    margin-right: 40px;
 }
 
 footer {
@@ -41,3 +43,27 @@ footer {
 .pfooter {
     padding: 20px;
 }
+
+/* this section for the Quot */
+
+.sec4 {
+    background-color: #E5E7Eb;
+    padding: 30px;
+    color: #1f2937;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.psec4 {
+    display: flex;
+    justify-content: right;
+    margin-right: 60px;
+}
+
+.qsec4 {
+    text-align: center;
+    margin: 40px;
+}
+
+/* this section for sec 2 & 5 */
+
