@@ -1,3 +1,8 @@
+html, body {
+    margin:0px;
+    height:100%;
+  }
+
 .logos {
     background-color: #1f2937 ;
     width: 35px;
@@ -65,5 +70,87 @@ footer {
     margin: 40px;
 }
 
+
+/* this for sec1 */
+
+.sec1 {
+    display: flex;
+    justify-content: center;
+}
+
+.textsec1 {
+    margin: 40px;
+    
+}
+
+.gif {
+    margin: 40px;
+    width: 290px;
+    height: auto;
+    border-radius: 33px;
+}
+
+button {
+    background: #3882F6;
+    border-color: #E5E7Eb;
+    color: #E5E7Eb;
+    border-radius: 10px;
+}
+
 /* this section for sec 2 & 5 */
 
+.sec2, .sec5 {
+    color: #1f2937;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.imgbox {
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.img2 {
+    width: 111px;
+    height: 111px;
+    border-radius: 3px;
+    border-color: #3882F6;
+}
+
+.d2 {
+    width: 111px;
+    margin: 40px;
+}
+
+.p2 {
+    text-align: center;
+    font-size: 14px;
+}
+
+.sec5 {
+    display: flex;
+ justify-content: center;
+}
+
+.d5 {
+ background-color: #3882F6;
+ margin: 50px;
+ padding: 20px;
+ border-radius: 3px;
+ display: flex;
+ justify-content: center;
+}
+
+.t5 {
+    color:#E5E7Eb;
+    margin: 30px;
+}
+
+.bu5 {
+    margin: 50px;
+    padding: 20px;
+}
